@@ -29,3 +29,6 @@ My employment history is as follows in tabuler format:
 |1765 - 1781:| Staedtler Mars GmbH
 |1757 - 1765:| Dixon Ticonderoga Inc
 
+[Image1] (https://www.google.com/search?q=cartoonimages&tbm=isch&ved=2ahUKEwjkkNGvp8jtAhWIrEsFHc40A5AQ2-cCegQIABAA&oq=cartoonimages&gs_lcp=CgNpbWcQARgAMgIIADICCAAyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeUJ5cWOZlYNlwaABwAHgAgAHtAYgB5QqSAQUwLjQuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=NqXUX-SdJIjZrtoPzumMgAk&bih=625&biw=1366#imgrc=z43x9vWJIQ3r_M)
+
+![Image1 ](C:\Users\yogibear\Downloads\Image1.jpg)
